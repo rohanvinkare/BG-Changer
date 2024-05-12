@@ -12,7 +12,7 @@ This project is built using React and Tailwind CSS. It features background chang
 
 ## Screenshots
 
-![Screenshot 1](image_path_here)
+![Screenshot 1](./public/project.png)
 
 ## Installation
 
